@@ -61,7 +61,7 @@ body
 /* feature */
 .feature img
 {
-    width: 100%;
+    width: 150%;
 }
 
 .nopadding {
@@ -97,17 +97,21 @@ body
     text-align: center;
     margin: 50px 0px;
 }
+/* .aligncenter {
+    text-align: center;
+} */
 
 .portfolio img
 {
     width: 100%;
+    text-align: center;
     cursor: pointer;
 }
 
-.portfolio .last-img
+/* .portfolio .last-img
 {
     margin-bottom: 20px;
-}
+} */
 
 /* Call to Action */
 .call-top-action
@@ -152,6 +156,7 @@ footer h4 {
 	font-weight: 600;
 	letter-spacing: 0.25px;
 	margin-bottom: 35px;
+    margin-left: 15px;
 }
 footer p {
 	color: #fff;
@@ -209,7 +214,7 @@ footer .contact-form input {
 	height: 40px;
 	line-height: 40px;
 	display: inline-block;
-	padding: 0px 15px;
+	padding: 3px 15px;
 	color: #aaa!important;
 	background-color: #343434;
 	font-size: 13px;
