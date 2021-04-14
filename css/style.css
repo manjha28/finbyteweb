@@ -780,9 +780,9 @@ ul,ol {
 }
 @media (max-width:481px) {
 	.navbar-lg .navbar-nav>li>a {
-		padding-top:26px;
-		padding-bottom:26px;
-		 font-size:18px;
+		padding-top:3px;
+		padding-bottom:3px;
+		 font-size:2px;
 	}
 	.navbar-lg .navbar-nav>li>a:hover,.navbar-lg .navbar-nav>li>a:active {
 		background:#fff;
