@@ -768,6 +768,7 @@ ul,ol {
 }
 @media (max-width:768px) {
 	.navbar-lg .navbar-nav>li>a {
+        background-size: auto;
 		padding-top:26px;
 		padding-bottom:26px;
 		 font-size:18px;
@@ -779,6 +780,7 @@ ul,ol {
 }
 @media (max-width:481px) {
 	.navbar-lg .navbar-nav>li>a {
+        background-size: auto;
 		padding-top:3px;
 		padding-bottom:3px;
 		 font-size:2px;
